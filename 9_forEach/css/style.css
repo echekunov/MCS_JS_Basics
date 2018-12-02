@@ -1,0 +1,13 @@
+@import url(reset.css);
+
+body {
+    background-color: lightgray;
+}
+
+h1, p, div {
+    margin: 5px;
+}
+
+h1 {
+    font-weight: bold;
+}
